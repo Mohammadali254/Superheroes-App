@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <!-- Elevation for Card -->
+        <dimen name="card_elevation">2dp</dimen>
+
+        <!-- Dimensions for List Item -->
+        <dimen name="list_item_height">72dp</dimen>
+        <dimen name="list_item_padding">8dp</dimen>
+        <dimen name="list_item_clip_radius">16dp</dimen>
+
+        <!-- Box Layout for Image -->
+        <dimen name="image_size">72dp</dimen>
+        <dimen name="image_clip_radius">8dp</dimen>
+
+        <!-- Spacing between Image and Text -->
+        <dimen name="image_text_spacing">16dp</dimen>
+
+</resources>
